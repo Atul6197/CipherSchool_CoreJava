@@ -1,0 +1,13 @@
+Procedural Programming(POP) and Object Oriented Programming(OOPs)
+Objects:-Anything that has a state and behaviour is known as an object.
+			 :-They store data in form of variables and operate on this data using methods/functions.
+			 :-An object is a real-world entity.
+			 :-An object is an instance of a class.
+Class :- A class is a group of objects which have common properties.
+      :- A class can be seen as a blueprint from which objects are created.
+      :-Classes can contain : Fieds,Methods,Constructors,Nested class and interface.
+Creation of Objects of a class (Instantiation of a class):
+   :-known as instantiation of a class
+   :-Objects share the attributes and the behavior of the class.
+   :-Values of those attributes may be unique for each object
+   :-A class may have number of instances.

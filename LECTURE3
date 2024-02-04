@@ -1,0 +1,15 @@
+FEATURES OF JAVA
+1:-SIMPLE
+-Java is very easy to learn as its syntax is very simple.
+-It's Syntax is based on C++.
+-No complicated features like pointers,operator overloadoning etc.
+-Automatic Garbage collection to remove unreferenced objects and thus programmers are free from memory management responsibilities.
+
+2:-Object Oriented
+-Java is object Oriented programming language.
+-Just like the real world, it is centered on creating objects, manipulating objects and making them work together.
+-Object oriented programming is better than procedural programming because it provides great flexibility,modularity ,clarity and reusabilty
+-OOPs is more secure as it provides data hiding features.
+
+3:-Platform Independent
+-""Write oncez  
